@@ -5,3 +5,4 @@ authors = ["Fernando Paredes <nano@fdp.io>"]
 
 [dependencies]
 hyper = { version = "0.9", default-features = false, features = ["security-framework"] }
+clap = "~2.19.0"
